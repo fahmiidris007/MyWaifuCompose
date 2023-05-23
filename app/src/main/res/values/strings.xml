@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyWaifuCompose</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_waifu">Cari Waifumu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="myname">Fahmi Idris</string>
+    <string name="myemail">fahmiidris@apps.ipb.ac.id</string>
+    <string name="detail_title">Detail Waifu</string>
+    <string name="back">back</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
